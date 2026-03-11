@@ -8,6 +8,26 @@ In the meantime, let me introduce myself:
 - 🌱 My motto: learning never exhausts the mind.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) or my [website](https://federicoraimondi.github.io/). You'll find all the contacts in there.
 
+#### My Certifications:
+
+<p>
+  <a href="https://credentials.databricks.com/3512acec-326e-47f6-947b-c3e261da01f2#main-content">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="20" height="20"/> Databricks - Machine Learning Professional
+  </a>
+  <br/>
+  <a href="https://credentials.databricks.com/62fd05c7-c7e3-43c7-b7ec-e69e9d065bf1">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="20" height="20"/> Databricks - Machine Learning Associate
+  </a>
+  <br/>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/YCVDNQ4C9EXF">
+    <img src="https://www.vectorlogo.zone/logos/deeplearningai/deeplearningai-icon.svg" alt="DeepLearning.AI" width="20" height="20"/> DeepLearning.AI - Deep Learning Specialization
+  </a>
+  <br/>
+  <a href="https://drive.google.com/file/d/1xAUt3lBYSeoO3mYiGyh5tPy1QDO2auT7/view?usp=drive_link">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20" height="20"/> Hugging Face - Fundamentals of Agents
+  </a>
+</p>
+
 #### Some tools I frequently use:
 
 <p align="center">
