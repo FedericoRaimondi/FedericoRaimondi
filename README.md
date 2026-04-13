@@ -3,7 +3,7 @@
 What brings you here?
 
 In the meantime, let me introduce myself:
-- 🤖🎾 I'm passionate about everything related to data and tennis.
+- 🤖🎾 I'm passionate about everything related to data, coding and tennis.
 - 💼 Worked in Consulting, then FMCG, and currently in Banking.
 - 🌱 My motto: learning never exhausts the mind.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) or my [website](https://federicoraimondi.github.io/). You'll find all the contacts in there.
